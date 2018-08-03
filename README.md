@@ -7,7 +7,8 @@
 ![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-project-103/depshield.svg)  [stage-project-103](https://github.com/depshield-staging/stage-project-103)
 ---
 ![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-project-104/depshield.svg)  [stage-project-104](https://github.com/depshield-staging/stage-project-104)
----![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-project-1/depshield.svg)  [stage-project-1](https://github.com/depshield-staging/stage-project-1)
+---
+![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-project-1/depshield.svg)  [stage-project-1](https://github.com/depshield-staging/stage-project-1)
 ---
 ![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-project-2/depshield.svg)  [stage-project-2](https://github.com/depshield-staging/stage-project-2)
 ---
